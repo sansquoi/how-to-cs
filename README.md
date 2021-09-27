@@ -1,6 +1,6 @@
 # An Autodidact's Guide to Computer Science
 
-## How to CS:
+## The steps:
 
 1. Learn the basics of a programming language
 2. Master precalculus
