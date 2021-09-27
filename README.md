@@ -33,5 +33,5 @@ An Autodidact's Guide to Computer Science
 
 
 ## Further:
-[Rob Conery's The Impostor's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
-[Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+1. [Rob Conery's The Impostor's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+2. [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
