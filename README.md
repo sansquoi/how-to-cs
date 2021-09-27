@@ -31,8 +31,7 @@ An Autodidact's Guide to Computer Science
  26. Learn about AI, machine learning, and computer vision\
  27. Study advanced algorithm analysis and analytical combinatorics
 
-## Map of Computer Science:
-![enter image description here](https://iibawards-prod.s3.amazonaws.com/projects/images/000/002/333/large.png?1505504208)
 
 ## Further:
 [Rob Conery's The Impostor's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+[Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
