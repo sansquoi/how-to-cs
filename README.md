@@ -1,4 +1,4 @@
-An Autodidact's Guide to Computer Science
+# An Autodidact's Guide to Computer Science
 
 ## How to CS:
 
